@@ -17,7 +17,7 @@ This is a simple tic-tac-toe game implemented in C. You play against the compute
 To compile the code, you can use GCC (GNU Compiler Collection) or any other compatible C compiler. For example:
 
 ```bash
-gcc tic_tac_toe.c -o tic_tac_toe
+gcc main.c -o tic_tac_toe
 ```
 
 To execute the compiled game, simply type:
